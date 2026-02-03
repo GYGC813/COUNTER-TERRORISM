@@ -1,0 +1,7 @@
+#requirements.txt
+ultralytics
+opencv-python
+streamlit
+pandas
+numpy
+REQ
